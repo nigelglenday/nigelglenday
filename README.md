@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Nigel
 
-CFO/COO Jack of all Trades with a passion for fintech and data analytics.
-
 ## 🏦🎨 About Me
 
-- CFO/COO mixing financial expertise with humanities and tech
+- CFO/COO Jack of all Trades mixing financial expertise with humanities and tech
 - Securitized $1bn+ art collection at Masterworks
 - Built high-performance, swiss army knife teams focused on driving business ROI
 - FIG investment banking background in specialty finance
