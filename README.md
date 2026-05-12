@@ -1,44 +1,35 @@
-# 👋 Hi, I'm Nigel
+# Nigel Glenday
 
-## 🏦🎨 About Me
+- **CFO/COO at [Masterworks](https://www.masterworks.com)**: largest securitized fine art collection. $1.2bn. 525+ paintings. Found in museums around the world
+- **Founder of [Graphite Atlas](https://graphiteatlas.com)**: living maps of how a business actually operates. Humans read them. AI agents traverse them.
 
-- CFO/COO Jack of all Trades mixing financial expertise with humanities and tech
-- Securitized $1bn+ art collection at Masterworks
-- Built high-performance, swiss army knife teams focused on driving business ROI
-- FIG investment banking background in specialty finance
-- UVA grad (Go Hoos! ⚔️) | RTO advocate | Bilingual in French 🥖
+Recovering perfectionist. Spreadsheet apologist. Writes at [looksgerat.com](https://looksgerat.com).
 
-## 💻 Tech Stack
+## Building
 
-- Python 🐍 (finance-focused data analysis and modeling)
-- SQL (data querying and management)
-- Excel, Google Sheets (those count, right?)
-- Airtable (collaborative data organization)
-- Retool (internal tool development)
-- Zapier (low-code automation)
-- Cube (FP&A software)
-- NetSuite (ERP and financial management)
+- [`graphiteatlas/atlas`](https://github.com/graphiteatlas/atlas) — Graphite Atlas, the product
+- [`eagent`](https://github.com/nigelglenday/eagent) — multi-session executive-assistant pattern for Claude Code. Inter-session messaging, scheduled email triage, markdown KB with an optional graph-store mirror
+- [`a-team`](https://github.com/nigelglenday/a-team) — parallel Claude Code session manager for Ghostty. "I love it when a plan comes together."
+- [`whispertty`](https://github.com/nigelglenday/whispertty) — record audio, transcribe with Whisper, browse from a TUI
+- [`horse-math`](https://github.com/nigelglenday/horse-math) — handicapping models, PP parsers, and pace/speed analysis for thoroughbred racing
+- [`looksgerat`](https://github.com/nigelglenday/looksgerat) — the blog. Hand-rolled, WordPerfect aesthetic
 
-## 🛠️ Projects
+## Stack right now
 
-- Developed financial models for 400+ individually securitized art assets
-- Implemented low-code solutions for streamlining finance operations
-- Designed and optimized finance tech stack for a fast-growing startup
+- Claude Code (multiple parallel sessions, MCP servers, agent orchestration). See a-team
+- Python, TypeScript
+- Knowledge graphs (Memgraph + Cypher)
+- Cloudflare Pages, Vercel, Supabase, Braintrust
+- Still Excel. Always Excel.
 
-## 🌱 Currently Learning
+## Background
 
-- Advancing Python skills for complex financial modeling
-- Exploring machine learning applications in art investment and finance
-- Staying updated on the latest "Office of the CFO" software trends
+FIG investment banking → finance lead at Masterworks → SVP/CFO. Built and ran a finance skunkworks operation that took an art investment platform from zero to billion-plus in AUM. Pulling on thread that knowledge graphs should be way more useful and accessible to business users in the AI agent era. Finding out how much you can fit in a week.
 
-## 📫 How to reach me
+UVA. Lives in the Deep South with a wife, two boys. Bilingual in French. Ask me about thoroughbreds.
 
-www.linkedin.com/nglenday
+## How to reach me
 
-## ⚡ Fun fact
+- LinkedIn: [nglenday](https://www.linkedin.com/in/nglenday)
+- Email (Atlas): nglenday@graphiteatlas.com
 
-When I'm not crunching numbers or optimizing processes, you can find me at the barbecue 🍖 or at a day at the races 🏇.
-<!---
-nigelglenday/nigelglenday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
