@@ -1,10 +1,7 @@
 # Nigel Glenday
 
-CFO/COO. Jack of all trades. Securitized $1.2bn+ in art. Now building knowledge graphs for the AI agent era. UVA alum. RTO champion. BBQ lover.
-
-**[Masterworks](https://www.masterworks.com)** — largest securitized fine art collection. $1.2bn AUM. 525+ paintings, found in museums around the world.
-
-**[Graphite Atlas](https://graphiteatlas.com)** — living maps of how a business actually operates. Humans read them. AI agents traverse them.
+- **CFO/COO at [Masterworks](https://www.masterworks.com)**: largest securitized fine art collection. $1.2bn. 525+ paintings. Found in museums around the world
+- **Founder of [Graphite Atlas](https://graphiteatlas.com)**: living maps of how a business actually operates. Humans read them. AI agents traverse them.
 
 Recovering perfectionist. Spreadsheet apologist. Writes at [looksgerat.com](https://looksgerat.com).
 
