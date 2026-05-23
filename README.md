@@ -7,7 +7,7 @@ Recovering perfectionist. Spreadsheet apologist. Writes at [looksgerat.com](http
 
 ## Building
 
-- [`graphiteatlas/atlas`](https://github.com/graphiteatlas/atlas) — Graphite Atlas, the product
+- [`graphiteatlas/atlas`](https://github.com/graphiteatlas/atlas) — living maps that real how a business actually works
 - [`eagent`](https://github.com/nigelglenday/eagent) — multi-session executive-assistant pattern for Claude Code. Inter-session messaging, scheduled email triage, markdown KB with an optional graph-store mirror
 - [`a-team`](https://github.com/nigelglenday/a-team) — parallel Claude Code session manager for Ghostty. "I love it when a plan comes together."
 - [`whispertty`](https://github.com/nigelglenday/whispertty) — record audio, transcribe with Whisper, browse from a TUI
