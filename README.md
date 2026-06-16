@@ -12,6 +12,7 @@ Recovering perfectionist. Spreadsheet apologist. Writes at [looksgerat.com](http
 - [`crmmy`](https://github.com/nigelglenday/crmmy) — a file-based CRM your AI agent maintains. Markdown records, Pydantic-validated, compiled to a JSON index and a self-contained dashboard. Point an agent at it on a loop and it keeps the pipeline current
 - [`a-team`](https://github.com/nigelglenday/a-team) — parallel Claude Code session manager for Ghostty. "I love it when a plan comes together."
 - [`whispertty`](https://github.com/nigelglenday/whispertty) — record audio, transcribe with Whisper, browse from a TUI
+- [`watchthis`](https://github.com/nigelglenday/watchthis) — launchd-watched folder for Claude Code: drop a file, an agent processes it and hands the result off to a session. A macOS scaffold for the dropbox-to-agent pattern
 - [`horse-math`](https://github.com/nigelglenday/horse-math) — handicapping models, PP parsers, and pace/speed analysis for thoroughbred racing
 - [`looksgerat`](https://github.com/nigelglenday/looksgerat) — the blog. Hand-rolled, WordPerfect aesthetic
 
