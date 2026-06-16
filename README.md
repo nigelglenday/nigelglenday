@@ -15,7 +15,7 @@ Recovering perfectionist. Spreadsheet apologist. Writes at [looksgerat.com](http
 - [`whispertty`](https://github.com/nigelglenday/whispertty) — record audio, transcribe with Whisper, browse from a TUI
 - [`skillbox`](https://github.com/nigelglenday/skillbox) — inventory and manage Claude Code skills, slash commands, and subagents across user, plugin, and project installs
 - [`horse-math`](https://github.com/nigelglenday/horse-math) — handicapping models, PP parsers, and pace/speed analysis for thoroughbred racing
-- [`looksgerat`](https://github.com/nigelglenday/looksgerat) — the blog. Hand-rolled, WordPerfect aesthetic
+- [`looksgerat`](https://www.looksgerat.com) — the blog. Hand-rolled, WordPerfect aesthetic
 
 ## Stack right now
 
